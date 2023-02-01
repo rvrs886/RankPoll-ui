@@ -1,0 +1,41 @@
+.navbar {
+    background-color: #177E89 !important;
+    height: 60px;
+}
+
+.navbar-collapse {
+    background-color: #177E89 !important;
+    padding: 6px !important;
+}
+
+.navbar-brand {
+    font-size: 25px !important;
+    font-weight: bold !important;
+    color: lightgrey !important;
+} 
+
+.link-button {
+    color: lightgrey !important;
+    padding: 10px !important;
+    margin-left: 5px !important;
+    text-decoration: none;
+}
+
+.default-button-navbar {
+    font-size: 18px !important;
+    border-radius: 10px !important;
+}
+
+.default-button-navbar:hover {
+    background-color: #598381 !important;
+}
+
+.registration-button-navbar {
+    font-size: 18px !important;
+    background-color: #598381 !important;
+    border-radius: 10px !important;
+}
+
+.registration-button-navbar:hover {
+    background-color: #7e9997 !important;
+}

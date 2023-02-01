@@ -1,0 +1,41 @@
+.poll-form-div {
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+    width: 60% !important;
+    margin: auto !important;
+}
+
+.poll-form {
+    padding: 20px !important;
+    background: rgba(23, 126, 137, 0.8) !important;
+    border-radius: 16px !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+    backdrop-filter: blur(4.2px) !important;
+    -webkit-backdrop-filter: blur(4.2px) !important;
+    border: 1px solid rgba(23, 126, 137, 0.18) !important;
+    color: white !important;
+}
+
+.answer-poll-form-group {
+    padding-bottom: 10px !important;
+}
+
+.poll-form-add-field-button {
+    background-color: #598381 !important;
+    border-color: #598381 !important;
+}
+
+.poll-form-add-field-button:hover {
+    background-color: #7e9997 !important;
+}
+
+.answer-remove-button {
+    background-color: white !important;
+    border: none !important;
+    color: grey !important;
+}
+
+.answer-remove-button:hover {
+    background-color: lightgray !important;
+    border: none !important;
+}

@@ -1,0 +1,26 @@
+.login-form-div {
+    padding-top: 150px !important;
+    margin: auto !important;
+    max-width: 30% !important;
+    min-width: 300px !important;
+}
+
+.login-form {
+    padding: 20px !important;
+    background: rgba(23, 126, 137, 0.8) !important;
+    border-radius: 16px !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+    backdrop-filter: blur(4.2px) !important;
+    -webkit-backdrop-filter: blur(4.2px) !important;
+    border: 1px solid rgba(23, 126, 137, 0.18) !important;
+    color: white !important;
+}
+
+.login-form-button {
+    background-color: #598381 !important;
+    border-color: #598381 !important;
+}
+
+.login-form-button:hover {
+    background-color: #7e9997!important;
+}
